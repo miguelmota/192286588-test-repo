@@ -1,1 +1,1 @@
-# this is readme
+This is the test repo for [https://github.com/miguelmota/git-checkpoint-ethereum](https://github.com/miguelmota/git-checkpoint-ethereum)
